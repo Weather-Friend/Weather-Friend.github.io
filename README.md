@@ -6,6 +6,7 @@ My name is **David Velarde** and I am from Peru 🇵🇪. I love doing trekking 
 This app lets you store all the places that are important to you and that you need weather information from. Here you will see how to use it, in case you haven't figured out yet.
 
 **Worked time**: 22 hrs
+**Repository link**: https://bitbucket.org/dvelarde/weather-friend
 
 ### Screens
 Weather Pal has 4 different screens. Each of them has different features which will be explained below.
