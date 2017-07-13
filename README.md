@@ -1,5 +1,3 @@
-# Weather Pal App
-
 ## Developer
 My name is **David Velarde** and I am from Peru 🇵🇪. I love doing trekking (as long as body allows it) and the movies, on either Netflix or the movie theater. I like pop, acoustic, classical-pop-mesh (Lindsey Stirling ❤️), and EDM of course!.
 
