@@ -66,8 +66,8 @@ This screen will let change the Unit System used along the app and reset your bo
 #### Help
 This is the Help Screen. Welcome!
 
-##
+## Farewell
 
-That's all folks! Thanks for everything and I hope fate will cross our paths in the near future!
+That's all folks! Thanks for everything and I hope fate cross our paths in the near future!
 
 To the infite and beyond 🚀!
